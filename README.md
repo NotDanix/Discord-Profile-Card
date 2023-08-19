@@ -2,4 +2,4 @@
 
 ---
 
-<img src="https://imgur.com/4jT8qSj.gif">
+<img align="center" src="https://imgur.com/4jT8qSj.gif">
